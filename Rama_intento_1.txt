@@ -1,1 +1,3 @@
 Hola mundo esta es mi primera Rama genial !!git log
+
+esta es una actualizacion despues de hacer merge
